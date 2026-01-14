@@ -139,10 +139,6 @@ config.music_playlist = [
 		file: "Mazxare.ogg",
 	},
 	{
-		name: "Miss&u",
-		file: "Missu.ogg",
-	},
-	{
 		name: "Reggie",
 		file: "Reggie.ogg",
 	},
