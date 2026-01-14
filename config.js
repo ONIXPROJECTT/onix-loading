@@ -32,7 +32,7 @@ config.logo_servername = false
 
 // Center logo?
 // "true" or "false"
-config.logo_center = false
+config.logo_center = true
 
 // Display current map and gamemode?
 // "true" or "false"
@@ -51,7 +51,7 @@ config.background_use_video = true
 // You can add your own video backgrounds
 // Just make sure they are using webm VP8 format
 // (Place the video file in the backgrounds/videos folder)
-config.background_video = "OnixBackground1.webm"
+config.background_video = "purple_blue_rays.webm"
 
 // (Image-background only)
 // Enable map-based background image?
