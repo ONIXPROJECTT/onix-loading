@@ -161,7 +161,7 @@ config.music_gmod_volume = true
 
 // Enable custom messages?
 // "true" or "false"
-config.messages_enable = true
+config.messages_enable = false
 
 // Enter your custom messages below
 config.messages_list = [
